@@ -25,7 +25,6 @@ package-lock.json
 yarn.lock
 
 # Ignore MISC
-Assignment 6/*
 Assignment 7/*
 Assignment 8/*
 Assignment 9/*
